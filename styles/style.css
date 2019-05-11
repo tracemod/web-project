@@ -1,0 +1,29 @@
+html{
+	font-family: 'Lobster Two', cursive;	
+	background-color: #DE060A;
+}
+h1 {
+	font-size: 80px;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #DE060A;
+	text-shadow: 3px 4px 1px black; /* горизонтальное смещение, веритикальное смещение, радиус размытия, цвет тени */
+}
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
+body{
+	width: 640px;
+	margin:	0 auto;
+	background-color: #737AC3;
+	padding: 0 15px 20px 40px; /* сверху = 0, справа = 15, снизу = 20, слева = 40 */
+	border: 5px solid black
+}
+img{
+	display: block;
+	margin: 0 auto;
+	height: 350px;
+}
